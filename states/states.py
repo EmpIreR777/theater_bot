@@ -1,0 +1,28 @@
+from aiogram.fsm.state import State, StatesGroup
+
+
+class Scenario(StatesGroup):
+    coupons = State()
+    user = State()
+    introduction = State()
+    track_1 = State()
+    track_2 = State()
+    track_3 = State()
+    track_4 = State()
+    track_5 = State()
+    track_6 = State()
+    track_7 = State()
+    track_8 = State()
+    track_9 = State()
+    track_10 = State()
+    track_11 = State()
+    track_12 = State()
+    track_13 = State()
+    track_14 = State()
+    track_15 = State()
+    track_16 = State()
+    track_17 = State()
+    track_18 = State()
+    track_19 = State()
+    track_20 = State()
+    track_21 = State()
